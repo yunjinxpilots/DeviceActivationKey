@@ -18,8 +18,14 @@
         "Allowoffline": false
     }, 
     {
-        "device_id": "7e9d75adaa5a72e0",
+        "device_id": "",
         "key": "pogikey12",
+        "expirydate": "15-08-2026",
+        "Allowoffline": false
+    }, 
+    {
+        "device_id": "7e9d75adaa5a72e0",
+        "key": "keymoto12",
         "expirydate": "15-08-2026",
         "Allowoffline": false
     }
