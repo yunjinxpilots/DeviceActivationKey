@@ -16,5 +16,11 @@
         "key": "giekey111",
         "expirydate": "15-08-2026",
         "Allowoffline": false
+    }, 
+    {
+        "device_id": "8299e732189b9f67",
+        "key": "pogi12",
+        "expirydate": "15-06-2029",
+        "Allowoffline": false
     }
 ]
